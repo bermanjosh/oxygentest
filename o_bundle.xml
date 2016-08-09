@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bundle name="Test Oxygen Bundle">
+  <link relpath="samples/taskbook.ditamap" title="taskbook-main"/>
+  <link relpath="samples/taskbook/closeprograms.dita" title="close programs"/>
+  <link relpath="samples/taskbook/bookmap-readme.dita" title="Bookmap Readme"/>
+  <link relpath="samples/taskbook/configuredatabase.dita" title="Configuring a Database"/>
+  <link relpath="samples/taskbook/configurestorage.dita" title="Configuring hard storage devices"/>
+  <link relpath="samples/taskbook/configurewebserver.dita" title="Configuring your Web Server"/>
+  <link relpath="samples/taskbook/configuring.dita" title="Configuring"/>
+  <link relpath="samples/taskbook/databasetrouble.dita" title="Troubleshooting a database"/>
+  <link relpath="samples/taskbook/drivetrouble.dita" title="Troubleshooting your hard disk"/>
+  <link relpath="samples/taskbook/insertdrive.dita" title="Attach the drive to the system"/>
+  <link relpath="samples/taskbook/installdb.dita" title="Installing your own Database"/>
+  <link relpath="samples/taskbook/installing.dita" title="Installing"/>
+  <link relpath="samples/taskbook/installstorage.dita" title="Installing hard drives or other storage"/>
+  <link relpath="samples/taskbook/installwebserver.dita" title="Installing your own Web Server"/>
+  <link relpath="samples/taskbook/maintaindatabase.dita" title="Maintaining a database"/>
+  <link relpath="samples/taskbook/maintaining.dita" title="Maintaining"/>
+  <link relpath="samples/taskbook/maintainserver.dita" title="Maintaining a Web Server"/>
+  <link relpath="samples/taskbook/maintainstorage.dita" title="Maintaining your hard drive"/>
+  <link relpath="samples/taskbook/notices.dita" title="Notice"/>
+  <link relpath="samples/taskbook/replacecover.dita" title="Replace the cover of your system."/>
+  <link relpath="samples/taskbook/restart.dita" title="Restart your system"/>
+  <link relpath="samples/taskbook/runsetup.dita" title="Run Setup.exe"/>
+  <link relpath="samples/taskbook/task_appendix.dita" title="Sample Appendix"/>
+  <link relpath="samples/taskbook/task_preface.dita" title="Sample Preface"/>
+  <link relpath="samples/taskbook/taskbook-abstract.dita" title="Abstract"/>
+  <link relpath="samples/taskbook/trademarks.dita" title="Trademarks"/>
+  <link relpath="samples/taskbook/troubleshooting.dita" title="Troubleshooting"/>
+  <link relpath="samples/taskbook/unscrewcover.dita" title="Remove the cover of your system"/>
+  <link relpath="samples/taskbook/webtrouble.dita" title="Troublshooting Web Server problems"/>
+</bundle>
