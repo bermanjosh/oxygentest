@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bundle name="Test Oxygen Bundle">
+<bundle name="oxygentest" title="Test Oxygen Bundle">
   <link relpath="samples/taskbook.ditamap" title="taskbook-main"/>
   <link relpath="samples/taskbook/closeprograms.dita" title="close programs"/>
   <link relpath="samples/taskbook/bookmap-readme.dita" title="Bookmap Readme"/>
